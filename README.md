@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in Perl related to hash iteration.  The bug showcases inconsistent behavior when iterating through a hash using different approaches. One loop may skip keys while another works as expected.  The solution provides a reliable method for iterating through hashes. The issue is subtle and could easily be missed. 
